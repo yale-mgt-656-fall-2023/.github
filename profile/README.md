@@ -29,7 +29,7 @@ at the Yale School of Management in Fall 2023.
 You can be admitted to the class by bidding in the Yale SOM bidding system.
 If you are ineligible for that or you didn't get your bid, you can test 
 into the class. I will save five to ten slots for such students. I'll administer
-a test cover some course material the first Friday of the semester. I'll announce
+a test covering some course material the first Friday of the semester. I'll announce
 the time in class. You must attend class the first week and be among the
 top scoring students to join if you didn't bid into the class.
 
@@ -200,7 +200,7 @@ A few notes about the quizzes...
 
 * The quiz questions are not uniformly drawn from material in
   the pre-class reading. Some pre-class reading will be over-represented
-  and some under-represented either, usually because of heterogeneous
+  and some under-represented, usually because of heterogeneous
   importance of the pre-class reading material.
 * We want the quiz questions to test your conceptual understanding.
   We do not want to ask "gotcha" questions or simple recall questions.
