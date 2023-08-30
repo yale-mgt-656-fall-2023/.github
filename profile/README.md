@@ -1,4 +1,4 @@
-# MGT656 - Fall 2023
+# MGT656
 
 Hello 👋👋! This is the "about" page for
 [MGT656 "Management of Software Development"](https://656.mba)
