@@ -1,4 +1,4 @@
-# MGT656 - Database Systems, Fall 2023
+# MGT656 - Management of Software Development, Fall 2023
 
 Hello 👋👋! This is the "about" page for
 [MGT656 "Management of Software Development"](https://656.mba)
