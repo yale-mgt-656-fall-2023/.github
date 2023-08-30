@@ -1,4 +1,4 @@
-# MGT656 - Management of Software Development, Fall 2023
+# MGT656 - Fall 2023
 
 Hello 👋👋! This is the "about" page for
 [MGT656 "Management of Software Development"](https://656.mba)
@@ -140,7 +140,7 @@ parameters, what do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
 particularly in serial; 2) wide spread dissemination  of answers
 to quizzes or homework assignments; 3) copying from a human in
-real-time; 4) use of unauthorized resources during the final exam;
+real-time; 4) use of unauthorized resources during an exam;
 5) efforts to thwart faithful grading, such as fibbing about time
 of submission.  What's the bottom line? We're all adults. I want
 you to learn, I want you to have fun, and I want to faithfully
@@ -301,5 +301,5 @@ Many of the assignments will be graded in an automated fashion and
 so a typo can have a catastrophic effect on your grade for an assignment.
 
 For many assignments I will provide either automated testing code
-or testing code online at [https://grading.656.mba]. You can use
+or testing code online at [http://grading.656.mba](http://grading.656.mba). You can use
 these tools to make sure your software is working how you expect.
