@@ -168,7 +168,7 @@ You take the quizzes via the class website. Click on "meetings" then click on
 the meeting for a particular class. (You can also take the quizzes via the
 class API. If you're a masochist, contact me! 🤪) A button that says "Begin Quiz"
 will appear if you can take the quiz.  Once you begin a quiz, you can change
-your answers until either 15 minutes after you began the quiz, or the closing
+your answers until either 45 minutes after you began the quiz, or the closing
 time of the quiz, which is usually the beginning of class. So, if you start a
 quiz five minutes prior to class, you will only have five minutes to submit the
 answers to the quiz questions! The quizzes are graded only after the quiz
@@ -187,7 +187,8 @@ You can take the quiz if all of the following are true:
   corresponds begins.
 - You did not previously take the quiz or you already started
   the quiz, but your time to take the quiz is not expired.
-  All quizzes this semester will last 20 minutes.
+  All quizzes this semester will last 45 minutes but they can
+  typically be completed in just five.
 
 Once you click "Begin Quiz", you will see a list of multiple
 choice questions displayed in an HTML form. For each question,
