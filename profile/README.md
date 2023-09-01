@@ -13,7 +13,7 @@ at the Yale School of Management in Fall 2023.
 | 📚&nbsp;Units                  | 4 units in Yale College and equivalent elsewhere                          |
 | 👥&nbsp;Enrollment             | Open to any student at Yale  (SOM students using bidding system)                            |
 | 🕓&nbsp;Meeting Time | Mon/Wed 2:40 PM-4:00 PM EST  |
-| 🏫&nbsp;Meeting Location | 4200 [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
+| 🏫&nbsp;Meeting Location | 4430 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
 | 💻&nbsp;Zoom link       | No zoom  🙁                                    |
 | 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
 | 🌐&nbsp;Website         | http://656.mba (down sometimes until class begins; requires Yale VPN)                  |
