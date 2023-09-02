@@ -50,7 +50,7 @@ more of the following resources.
   Sexual Harassment and Assault Response & Education (SHARE)](https://sharecenter.yale.edu/)
 - Diane Temple in SOM Human Resources and Sheri Scully in the SOM AASL.
 - [Yale Title IX Coordinators](https://provost.yale.edu/title-ix/coordinators) (SOM’s Title IX Coordinator is Rebecca Udler)
-- [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
+- [Yale's Live Safe App](https://your.yale.edu/community/public-safety/stay-safe-campus/livesafe-app)
 - [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
 
 ## Special needs
@@ -79,7 +79,7 @@ Feel free to send an email if these times do not work for you.
 
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
-| Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
+| Kyle Jensen     | kyle.jensen@yale.edu | TBD | TBD |
 | Suim Woo        | suim.woo@yale.edu | TBD | TBD |
 | Nora Devlin     | nora.devlin@yale.edu | TBD | TBD |
 
