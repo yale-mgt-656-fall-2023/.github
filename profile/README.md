@@ -81,7 +81,7 @@ Feel free to send an email if these times do not work for you.
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
 | Suim Woo        | suim.woo@yale.edu | TBD | TBD |
-| Nora Devlin     | nora.devlin@yale.edu | TBD | TBD |
+| Nora Devlin     | nora.devlin@yale.edu | Wednesdays 4-5pm | Breakout Room 4469 |
 
 ## Course Philosophy
 
