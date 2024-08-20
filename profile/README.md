@@ -2,7 +2,7 @@
 
 Hello 👋👋! This is the "about" page for
 [MGT656 "Management of Software Development"](https://656.mba)
-at the Yale School of Management in Fall 2023.
+at the Yale School of Management in Fall 2024.
 
 ## Overview
 
@@ -13,14 +13,14 @@ at the Yale School of Management in Fall 2023.
 | 📚&nbsp;Units                  | 4 units in Yale College and equivalent elsewhere                          |
 | 👥&nbsp;Enrollment             | Open to any student at Yale  (SOM students using bidding system)                            |
 | 🕓&nbsp;Meeting Time | Mon/Wed 2:40 PM-4:00 PM EST  |
-| 🏫&nbsp;Meeting Location | 4430 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
+| 🏫&nbsp;Meeting Location | 2200 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
 | 💻&nbsp;Zoom link       | No zoom  🙁                                    |
 | 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
-| 🌐&nbsp;Website         | http://656.mba (down sometimes until class begins; requires Yale VPN)                  |
-| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2023/discussions |
+| 🌐&nbsp;Website         | https://www.656.mba (down sometimes until class begins; requires Yale VPN)                  |
+| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2024/discussions |
 | 👨‍🏫Faculty                 | Kyle Jensen |
-| 🧑‍🎓TAs                     | Suim Woo, Nora Devlin |
-| 🤒&nbsp;Excused absences        | [656 form](http://files.656.mba/absent) |
+| 🧑‍🎓TAs                     | Joaqiin Pujol, Brianna Hoelting, Luisa Locatelli |
+| 🤒&nbsp;Excused absences        | 656 form...TBD |
 
 
 
@@ -36,7 +36,7 @@ top scoring students to join if you didn't bid into the class.
 ## Textbook
 
 There is no textbook for the course. Readings will be posted on the
-[class website](https://656.mba).
+[class website](https://www.656.mba).
 
 ## Diversity, equity, inclusion and their opposites
 
@@ -67,7 +67,7 @@ for more information.
 
 ## Office hours
 
-Your first stop for help should be the [classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2023/discussions)
+Your first stop for help should be the [classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2024/discussions)
 on GitHub. Please only email if you need private help. 
 
 The office hours for each of the teaching staff is shown
@@ -80,8 +80,6 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
-| Suim Woo        | suim.woo@yale.edu | TBD | TBD |
-| Nora Devlin     | nora.devlin@yale.edu | TBD | TBD |
 
 ## Course Philosophy
 
@@ -130,11 +128,11 @@ hands-on, and minimally frustrating.
 ## Use of AI assistants, human assistants, and the honor code
 
 You should totally be using AI assistants such at GitHub Copilot
-(best for writing code) or ChatGPT (good for answer pre-class quiz
-questions). I ask that you not copy from other humans in "real-time".
+(best for writing code) or ChatGPT.
+I ask that you not copy from other humans in "real-time".
 You are welcome to use the advice of other humans through media
 such as StackOverflow or our [class
-discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2023/discussions)
+discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2024/discussions)
 and also to work on your homework with your colleagues. Given such
 parameters, what do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
