@@ -27,11 +27,17 @@ at the Yale School of Management in Fall 2024.
 ## Admission to the class
 
 You can be admitted to the class by bidding in the Yale SOM bidding system.
-If you are ineligible for that or you didn't get your bid, you can test 
-into the class. I will save five to ten slots for such students. I'll administer
-a test covering some course material the first Friday of the semester. I'll announce
-the time in class. You must attend class the first week and be among the
-top scoring students to join if you didn't bid into the class.
+If you are ineligible for that or you didn't get your bid, you *might* be
+able to join still.
+I will save a small number of slots for students who do not successfully bid
+in. These will go first to bid-ineligible students, such as those from Yale
+College. If demands exceeds remaining capacity, I will admit students using
+a short quiz. *Yale SOM students admitted in this fashion will negotiate with
+me for the number of points they will be charged*. My priority in that negotiation
+will be fairness: a student ought not be admitted for a pittance when the student
+next to them paid a prodigious price. Anybody expecting to join without bidding
+in must be physically present in class: I will not accept electronic
+entreaties.
 
 ## Textbook
 
@@ -67,19 +73,24 @@ for more information.
 
 ## Office hours
 
-Your first stop for help should be the [classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2024/discussions)
-on GitHub. Please only email if you need private help. 
+Your first stop for help should be the
+[classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2024/discussions)
+on GitHub. Please only email if you need private help.
+And, please email the TAs before the instructor. (Thanks!)
 
 The office hours for each of the teaching staff is shown
 below. Though, if you are reading this before the start of
 the semester, it is possible some staff are missing because
-they did not yet determine their schedule. 
+they did not yet determine their schedule.
 
 Feel free to send an email if these times do not work for you.
 
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
+| Luisa Locatelli | luisa.locatelli@yale.edu | TBD | TBD |
+| Joaquin Pujol   | joaquin.pujol@yale.edu | TBD | TBD |
+| Brianna Hoelting | brianna.hoelting@yale.edu | TBD | TBD |
 
 ## Course Philosophy
 
@@ -127,13 +138,14 @@ hands-on, and minimally frustrating.
 
 ## Use of AI assistants, human assistants, and the honor code
 
-You should totally be using AI assistants such at GitHub Copilot
-(best for writing code) or ChatGPT.
-I ask that you not copy from other humans in "real-time".
-You are welcome to use the advice of other humans through media
+For homework,
+you should be using AI assistants such at GitHub Copilot
+(best for writing code) or ChatGPT/Claude/Llama/etc.
+I ask that you not *copy* from other humans, but I hope you'll
+enlist the aid of other humans through media
 such as StackOverflow or our [class
 discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2024/discussions)
-and also to work on your homework with your colleagues. Given such
+and your Yale colleagues. Given such
 parameters, what do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
 particularly in serial; 2) wide spread dissemination  of answers
@@ -148,77 +160,19 @@ up.
 
 ## Quizzes
 
-Most classes are preceded by a quiz that you take
-through the class website. The quizzes are short, timed, multiple choice,
-mandatory, and ultimately a crude and imperfect assessment of
-the degree to which you understand the pre-class reading material.
-The following are my reasons for giving pre-class quizzes:
+Most classes begin with a 10-minute, on-paper quiz.
+The quizzes allow me to reward you for coming to class
+prepared and to access your understanding of the material
+(however crudely!).
+
+The following are my reasons for giving in-class quizzes:
 
 1. It makes you think about the upcoming class!
 2. Empirical evidence shows that the [testing effect](https://en.wikipedia.org/wiki/Testing_effect)
    increases your understanding and retention of material.
 3. They give you a low-stakes, super-small reward for coming to class prepared.
 4. They ensure that your classmates are better prepared for class and therefore more fun to speak with.
-5. They are short, you can google for stuff during the quiz, _and_ you
-   can drop your lowest two scores, so they are not stressful.
-
-You take the quizzes via the class website. Click on "meetings" then click on
-the meeting for a particular class. (You can also take the quizzes via the
-class API. If you're a masochist, contact me! 🤪) A button that says "Begin Quiz"
-will appear if you can take the quiz.  Once you begin a quiz, you can change
-your answers until either 45 minutes after you began the quiz, or the closing
-time of the quiz, which is usually the beginning of class. So, if you start a
-quiz five minutes prior to class, you will only have five minutes to submit the
-answers to the quiz questions! The quizzes are graded only after the quiz
-closes. Kyle will sometimes go over the content of the quizzes at the beginning
-of class.
-
-You can take the quiz if all of the following are true:
-
-- The quiz is not labeled as "draft". Draft means the teaching
-  staff are still working on the quiz questions.
-- The current time is after the quiz is "open". Quizzes usually
-  open five days before the meeting/lecture to which the quiz
-  corresponds.
-- The current time is not after the quiz is "closed". Quizzes
-  usually close when the meeting/lecture to which the quiz
-  corresponds begins.
-- You did not previously take the quiz or you already started
-  the quiz, but your time to take the quiz is not expired.
-  All quizzes this semester will last 45 minutes but they can
-  typically be completed in just five.
-
-Once you click "Begin Quiz", you will see a list of multiple
-choice questions displayed in an HTML form. For each question,
-you should select the options you desire and then click
-"Save Answers" at the bottom of the page. Unless there is an
-error, the options that you selected will be labeled as "saved",
-so that you have visual confirmation.
-
-A few notes about the quizzes...
-
-* The quiz questions are not uniformly drawn from material in
-  the pre-class reading. Some pre-class reading will be over-represented
-  and some under-represented, usually because of heterogeneous
-  importance of the pre-class reading material.
-* We want the quiz questions to test your conceptual understanding.
-  We do not want to ask "gotcha" questions or simple recall questions.
-  However, we will fall short in those aspirations often.
-* Some quiz questions will have obvious answers. We do this in part
-  to remind you of important concepts.
-* If you feel like a quiz questions is unfair or that the answer
-  is wrong, please tell Kyle. It is easy for Kyle to "fix" a bad
-  question.
-* Questions that have multiple correct answers are indicated as
-  such in the class website.
-* There is a timer at the bottom of the page in the quiz UI on 
-  the class website. It shows the *approximate* time you have left
-  to finish your quiz. Please monitor your time.
-* It is 100% fine to google for the answers to quiz questions or to
-  look in the reading material. You may not rely on another human
-  being for real-time support on the quiz and you may not share
-  information about the quiz with other students. You can use
-  AI assistants.
+5. Online quizzes are less useful in the age of AI assistants.
 
 ## Grading
 
@@ -235,16 +189,16 @@ determined _roughly_ as follows (I reserve the right to make changes. The most
 common change I make is dropping assignments.)
 
 
-| Component       | Percentage            | 
+| Component       | Percentage            |
 | --------------- | ---------------- |
-| Homework     | 20% | 
-| Quizzes   | 15% | 
-| Exam-1 | 20% | 
-| Exam-2 | 20% | 
-| Group Project | 20% | 
-| Participation   | 5% | 
+| Homework     | 20% |
+| Quizzes   | 15% |
+| Exam-1 | 20% |
+| Exam-2 | 20% |
+| Group Project | 20% |
+| Participation   | 5% |
 
-The ethics of counting participation in the grade are also a bit dubious 🙁.
+The ethics of counting participation in the grade are a bit dubious 🙁.
 But, I'm including it for consequentialist reasons: your participation makes
 the class more fun for all of us and most importantly for me 🤣.
 
@@ -272,7 +226,7 @@ which we get for free as part of our GitHub Education account.
 It's basically just a coding environment in the cloud
 so you don't need to install anything on your computer. Of course, you can
 complete assignments on your own computer if you prefer---that's what I do!
-Some homework assignments require that you _deploy_ your code somewhere. 
+Some homework assignments require that you _deploy_ your code somewhere.
 That means you'll write your code in one place and then send it to another
 place where it can run ``professionally''. You'll likely deploy your code
 to a cloud platform like [Render](https://render.com/),
@@ -293,10 +247,10 @@ closed (due), the instructors will grade the assignment using the
 information you submitted.
 
 When you submit your assignment, please take care that you submit
-the correct information without typos. The class website will happily
-suggest "foo.com" as your submission instead of the URL to your Git repo.
+the correct information without typos.
 Many of the assignments will be graded in an automated fashion and
 so a typo can have a catastrophic effect on your grade for an assignment.
+I can fix that, of course, but... it's a pain for both of us!
 
 For many assignments I will provide either automated testing code
 or testing code online at [http://grading.656.mba](http://grading.656.mba). You can use
